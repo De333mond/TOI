@@ -26,14 +26,13 @@ def encode(message: str) -> float:
         length = bounds[1] - bounds[0]
 
         interval = {}
-        prev = None
 
+        prev = None
         for key, value in symbols.items():
             s = value * length + (prev if prev else 0)
 
             if not prev:
-                s += bounds[0]
-                interval.update({key: [bounds[0], s]})
+                interval.update({key: [bounds[0], bounds[0] + s]})
             else:
                 interval.update({key: [prev, s]})
 
