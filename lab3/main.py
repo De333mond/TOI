@@ -82,13 +82,12 @@ def apply_pheromone_change(paths: list):
             else:
                 pheromone_deltas[link] += pheromone_delta
         # print(f'{length=} {min_length=} ')
-        print(length, end=', ')
-
+        # print(length, end=', ')
     for link in graph.links:
+        link.pheromone = (1 - p) * link.pheromone
+
         if link in pheromone_deltas.keys():
-            link.pheromone = (1 - p) * link.pheromone + pheromone_deltas[link]
-        else:
-            link.pheromone = (1 - p) * link.pheromone
+            link.pheromone += pheromone_deltas[link]
 
         if pheromone_cup and link.pheromone > pheromone_cup:
             link.pheromone = pheromone_cup
@@ -102,11 +101,11 @@ if __name__ == "__main__":
 
     min_length = 1000
 
-    for i in range(1000):
+    for i in range(10000):
         # graph.print_pheromones()
         paths = do_iteration(graph)
         length, path = apply_pheromone_change(paths)
         min_length = length if length < min_length else min_length
-        # print(f'iteration: {i + 1}, {length=} {min_length=} ')
+        print(f'iteration: {i + 1}, {length=} {min_length=} ')
 
     print('end')

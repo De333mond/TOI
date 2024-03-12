@@ -3,6 +3,9 @@ beta = 2
 Q = 4
 p = 0.3
 
+
+
+
 pheromone_cup = None
 
 default_graph = {
