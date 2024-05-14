@@ -97,7 +97,7 @@ def apply_pheromone_change(paths: list):
 
 if __name__ == "__main__":
     graph = Graph()
-    graph.load(test_graph1)
+    graph.load(test_graph)
 
     min_length = 1000
 

@@ -1,0 +1,672 @@
+[
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "fsum",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "pprint",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "pprint",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "PrettyPrintTree",
+        "importPath": "PrettyPrint",
+        "description": "PrettyPrint",
+        "isExtraImport": true,
+        "detail": "PrettyPrint",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "graph",
+        "description": "graph",
+        "isExtraImport": true,
+        "detail": "graph",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "graph",
+        "description": "graph",
+        "isExtraImport": true,
+        "detail": "graph",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "settings",
+        "description": "settings",
+        "isExtraImport": true,
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "UIConfig",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "UIConfig",
+        "importPath": "lab5.ui.config",
+        "description": "lab5.ui.config",
+        "isExtraImport": true,
+        "detail": "lab5.ui.config",
+        "documentation": {}
+    },
+    {
+        "label": "UIConfig",
+        "importPath": "lab5.ui.config",
+        "description": "lab5.ui.config",
+        "isExtraImport": true,
+        "detail": "lab5.ui.config",
+        "documentation": {}
+    },
+    {
+        "label": "coords_from_num",
+        "importPath": "lab5.ui.utils",
+        "description": "lab5.ui.utils",
+        "isExtraImport": true,
+        "detail": "lab5.ui.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pygame",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pygame",
+        "description": "pygame",
+        "detail": "pygame",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "pygame_gui",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pygame_gui",
+        "description": "pygame_gui",
+        "detail": "pygame_gui",
+        "documentation": {}
+    },
+    {
+        "label": "forced_ups",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "coords_from_num",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "Cell",
+        "importPath": "cells",
+        "description": "cells",
+        "isExtraImport": true,
+        "detail": "cells",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "cells",
+        "description": "cells",
+        "isExtraImport": true,
+        "detail": "cells",
+        "documentation": {}
+    },
+    {
+        "label": "Food",
+        "importPath": "cells",
+        "description": "cells",
+        "isExtraImport": true,
+        "detail": "cells",
+        "documentation": {}
+    },
+    {
+        "label": "Wall",
+        "importPath": "cells",
+        "description": "cells",
+        "isExtraImport": true,
+        "detail": "cells",
+        "documentation": {}
+    },
+    {
+        "label": "save_to",
+        "importPath": "saveload",
+        "description": "saveload",
+        "isExtraImport": true,
+        "detail": "saveload",
+        "documentation": {}
+    },
+    {
+        "label": "load_from",
+        "importPath": "saveload",
+        "description": "saveload",
+        "isExtraImport": true,
+        "detail": "saveload",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_p",
+        "kind": 2,
+        "importPath": "lab1.main",
+        "description": "lab1.main",
+        "peekOfCode": "def calculate_p(message):\n    symbols = {}\n    for el in message:\n        if el not in symbols.keys():\n            symbols.update({el: 1})\n        else:\n            symbols[el] += 1\n    for key, value in symbols.items():\n        symbols[key] = value / len(message)\n    symbols = sorted(symbols.items(), key=lambda x: x[1], reverse=True)",
+        "detail": "lab1.main",
+        "documentation": {}
+    },
+    {
+        "label": "encode",
+        "kind": 2,
+        "importPath": "lab1.main",
+        "description": "lab1.main",
+        "peekOfCode": "def encode(message: str) -> float:\n    bounds = [0, 1]\n    symbols = calculate_p(message)\n    message = [*message]\n    while len(message) > 0:\n        length = bounds[1] - bounds[0]\n        interval = {}\n        prev = None\n        for key, value in symbols.items():\n            s = value * length + (prev if prev else 0)",
+        "detail": "lab1.main",
+        "documentation": {}
+    },
+    {
+        "label": "decode",
+        "kind": 2,
+        "importPath": "lab1.main",
+        "description": "lab1.main",
+        "peekOfCode": "def decode(number: float, symbols: dict, message_length: int):\n    message = ''\n    bounds = [0, 1]\n    for i in range(message_length):\n        prev = 0\n        for c, p in symbols.items():\n            if number < prev + p:\n                message += c\n                bounds = [prev, prev + p]\n                break",
+        "detail": "lab1.main",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "lab2.main",
+        "description": "lab2.main",
+        "peekOfCode": "class Node:\n    def __init__(self, title: str, children=None, weight=None):\n        self.children = children\n        self.title = title\n        self.code = None\n        self.weight = weight\n    def __add__(self, other):\n        self.children += other\n    def __repr__(self):\n        return self.title",
+        "detail": "lab2.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_weights",
+        "kind": 2,
+        "importPath": "lab2.main",
+        "description": "lab2.main",
+        "peekOfCode": "def get_weights(message: str) -> dict:\n    weights = {}\n    for el in message:\n        if el not in weights.keys():\n            weights.update({el: 1})\n        else:\n            weights[el] += 1\n    return dict(sorted(weights.items(), key=lambda x: x[1]))\ndef create_tree(message: str):\n    weights = get_weights(message)",
+        "detail": "lab2.main",
+        "documentation": {}
+    },
+    {
+        "label": "create_tree",
+        "kind": 2,
+        "importPath": "lab2.main",
+        "description": "lab2.main",
+        "peekOfCode": "def create_tree(message: str):\n    weights = get_weights(message)\n    res = []\n    for key, value in weights.items():\n        node = Node(key, weight=value)\n        res.append(node)\n    while len(res) > 1:\n        buffer = []\n        for _ in range(2):\n            min_value, min_index = None, None",
+        "detail": "lab2.main",
+        "documentation": {}
+    },
+    {
+        "label": "print_tree_titles",
+        "kind": 2,
+        "importPath": "lab2.main",
+        "description": "lab2.main",
+        "peekOfCode": "def print_tree_titles(node: Node):\n    pt = PrettyPrintTree(\n        lambda x: x.children,\n        lambda x: ''.join(sorted(x.title)) + f'\\nw: {x.weight}',\n        lambda x: x.code[-1] if x.code else '',\n    )\n    pt(node)\ndef get_encoding_dict(node: Node):\n    def set_codes(node: Node, parent: Node = None, n=0):\n        if not node.children:",
+        "detail": "lab2.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_encoding_dict",
+        "kind": 2,
+        "importPath": "lab2.main",
+        "description": "lab2.main",
+        "peekOfCode": "def get_encoding_dict(node: Node):\n    def set_codes(node: Node, parent: Node = None, n=0):\n        if not node.children:\n            node.code = str(n)\n            if parent.code:\n                node.code = parent.code + node.code\n            encoding_dict.update({node.title: node.code})\n        else:\n            if parent:\n                node.code = str(n)",
+        "detail": "lab2.main",
+        "documentation": {}
+    },
+    {
+        "label": "encode",
+        "kind": 2,
+        "importPath": "lab2.main",
+        "description": "lab2.main",
+        "peekOfCode": "def encode(encoding_dict, message):\n    encoding = ''\n    for el in message:\n        encoding += encoding_dict[el]\n    return encoding\nif __name__ == \"__main__\":\n    message = \"abracadabra\"\n    tree = create_tree(message)\n    encoding_dict = get_encoding_dict(tree)\n    print_tree_titles(tree)",
+        "detail": "lab2.main",
+        "documentation": {}
+    },
+    {
+        "label": "Point",
+        "kind": 6,
+        "importPath": "lab3.graph",
+        "description": "lab3.graph",
+        "peekOfCode": "class Point:\n    def __init__(self, num):\n        self.number: int = num\n        self.links: list[Link] = []\n    def __repr__(self):\n        return str(self.number)\n    def __getitem__(self, item):\n        for link in self.links:\n            point_numbers = [point.number for point in link.points]\n            if item in point_numbers and self.number in point_numbers:",
+        "detail": "lab3.graph",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "kind": 6,
+        "importPath": "lab3.graph",
+        "description": "lab3.graph",
+        "peekOfCode": "class Link:\n    def __init__(self, weight: float):\n        self.pheromone = 0\n        self.weight = weight\n        self.points = []\n    def __repr__(self):\n        return f'{self.points[0]} -> {self.points[1]}'\nclass Graph:\n    def __init__(self):\n        self.points: list[Point] = []",
+        "detail": "lab3.graph",
+        "documentation": {}
+    },
+    {
+        "label": "Graph",
+        "kind": 6,
+        "importPath": "lab3.graph",
+        "description": "lab3.graph",
+        "peekOfCode": "class Graph:\n    def __init__(self):\n        self.points: list[Point] = []\n        self.links: list[Link] = []\n    def __getitem__(self, item: int):\n        for el in self.points:\n            if el.number == item:  \n                return el\n    def print_pheromones(self,):\n        for link in self.links:",
+        "detail": "lab3.graph",
+        "documentation": {}
+    },
+    {
+        "label": "generate_graph_config",
+        "kind": 2,
+        "importPath": "lab3.graph",
+        "description": "lab3.graph",
+        "peekOfCode": "def generate_graph_config(n: int):\n    from random import randint\n    from pprint import pprint\n    points = [i + 1 for i in range(n)]\n    links = {}\n    for a in points:\n        for b in points:\n            if (a, b) not in links.keys() and (b, a) not in links.keys() and a != b:\n                weight = round(randint(1, 50), 4)\n                pheromone = 0.2",
+        "detail": "lab3.graph",
+        "documentation": {}
+    },
+    {
+        "label": "get_weights",
+        "kind": 2,
+        "importPath": "lab3.main",
+        "description": "lab3.main",
+        "peekOfCode": "def get_weights(point, visited: list):\n    point: Point\n    weights = {}\n    for link in point.links:\n        link: Link\n        to_point = link.points[1] if link.points[0].number == point.number else link.points[0]\n        if to_point in visited:\n            continue\n        weight = ((link.pheromone ** alpha) * ((1 / link.weight) ** beta))\n        s = 0",
+        "detail": "lab3.main",
+        "documentation": {}
+    },
+    {
+        "label": "do_iteration",
+        "kind": 2,
+        "importPath": "lab3.main",
+        "description": "lab3.main",
+        "peekOfCode": "def do_iteration(graph: Graph):\n    points_queue = graph.points\n    random.shuffle(points_queue)\n    paths = []\n    for point in points_queue:\n        point: Point\n        visited = []\n        current_point = point\n        while len(visited) < len(graph.points) - 1:\n            visited.append(current_point)",
+        "detail": "lab3.main",
+        "documentation": {}
+    },
+    {
+        "label": "apply_pheromone_change",
+        "kind": 2,
+        "importPath": "lab3.main",
+        "description": "lab3.main",
+        "peekOfCode": "def apply_pheromone_change(paths: list):\n    pheromone_deltas = {}\n    min_length = 10000000\n    min_path = None\n    for path in paths:\n        length = 0\n        for i, el in enumerate(path[1:]):\n            length += path[i][el.number].weight\n        if length < min_length:\n            min_length = length",
+        "detail": "lab3.main",
+        "documentation": {}
+    },
+    {
+        "label": "alpha",
+        "kind": 5,
+        "importPath": "lab3.settings",
+        "description": "lab3.settings",
+        "peekOfCode": "alpha = 1.5\nbeta = 2\nQ = 4\np = 0.3\npheromone_cup = None\ndefault_graph = {\n    'points': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],\n    'links': [\n        {'points': [1, 2], 'weight': 0.854, 'pheromone': 0.2},\n        {'points': [1, 3], 'weight': 0.9823, 'pheromone': 0.2},",
+        "detail": "lab3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "beta",
+        "kind": 5,
+        "importPath": "lab3.settings",
+        "description": "lab3.settings",
+        "peekOfCode": "beta = 2\nQ = 4\np = 0.3\npheromone_cup = None\ndefault_graph = {\n    'points': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],\n    'links': [\n        {'points': [1, 2], 'weight': 0.854, 'pheromone': 0.2},\n        {'points': [1, 3], 'weight': 0.9823, 'pheromone': 0.2},\n        {'points': [1, 4], 'weight': 0.8792, 'pheromone': 0.2},",
+        "detail": "lab3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "kind": 5,
+        "importPath": "lab3.settings",
+        "description": "lab3.settings",
+        "peekOfCode": "Q = 4\np = 0.3\npheromone_cup = None\ndefault_graph = {\n    'points': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],\n    'links': [\n        {'points': [1, 2], 'weight': 0.854, 'pheromone': 0.2},\n        {'points': [1, 3], 'weight': 0.9823, 'pheromone': 0.2},\n        {'points': [1, 4], 'weight': 0.8792, 'pheromone': 0.2},\n        {'points': [1, 5], 'weight': 0.193, 'pheromone': 0.2},",
+        "detail": "lab3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "p",
+        "kind": 5,
+        "importPath": "lab3.settings",
+        "description": "lab3.settings",
+        "peekOfCode": "p = 0.3\npheromone_cup = None\ndefault_graph = {\n    'points': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],\n    'links': [\n        {'points': [1, 2], 'weight': 0.854, 'pheromone': 0.2},\n        {'points': [1, 3], 'weight': 0.9823, 'pheromone': 0.2},\n        {'points': [1, 4], 'weight': 0.8792, 'pheromone': 0.2},\n        {'points': [1, 5], 'weight': 0.193, 'pheromone': 0.2},\n        {'points': [1, 6], 'weight': 0.5765, 'pheromone': 0.2},",
+        "detail": "lab3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "pheromone_cup",
+        "kind": 5,
+        "importPath": "lab3.settings",
+        "description": "lab3.settings",
+        "peekOfCode": "pheromone_cup = None\ndefault_graph = {\n    'points': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],\n    'links': [\n        {'points': [1, 2], 'weight': 0.854, 'pheromone': 0.2},\n        {'points': [1, 3], 'weight': 0.9823, 'pheromone': 0.2},\n        {'points': [1, 4], 'weight': 0.8792, 'pheromone': 0.2},\n        {'points': [1, 5], 'weight': 0.193, 'pheromone': 0.2},\n        {'points': [1, 6], 'weight': 0.5765, 'pheromone': 0.2},\n        {'points': [1, 7], 'weight': 0.5214, 'pheromone': 0.2},",
+        "detail": "lab3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "default_graph",
+        "kind": 5,
+        "importPath": "lab3.settings",
+        "description": "lab3.settings",
+        "peekOfCode": "default_graph = {\n    'points': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],\n    'links': [\n        {'points': [1, 2], 'weight': 0.854, 'pheromone': 0.2},\n        {'points': [1, 3], 'weight': 0.9823, 'pheromone': 0.2},\n        {'points': [1, 4], 'weight': 0.8792, 'pheromone': 0.2},\n        {'points': [1, 5], 'weight': 0.193, 'pheromone': 0.2},\n        {'points': [1, 6], 'weight': 0.5765, 'pheromone': 0.2},\n        {'points': [1, 7], 'weight': 0.5214, 'pheromone': 0.2},\n        {'points': [1, 8], 'weight': 0.0944, 'pheromone': 0.2},",
+        "detail": "lab3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "test_graph",
+        "kind": 5,
+        "importPath": "lab3.settings",
+        "description": "lab3.settings",
+        "peekOfCode": "test_graph = {\n    'points': [1, 2, 3, 4, 5],\n    'links': [\n        {'points': [1, 2], 'weight': 7, 'pheromone': 0.2},\n        {'points': [1, 3], 'weight': 13, 'pheromone': 0.2},\n        {'points': [1, 4], 'weight': 6, 'pheromone': 0.2},\n        {'points': [1, 5], 'weight': 4, 'pheromone': 0.2},\n        {'points': [2, 3], 'weight': 1, 'pheromone': 0.2},\n        {'points': [2, 4], 'weight': 15, 'pheromone': 0.2},\n        {'points': [2, 5], 'weight': 8, 'pheromone': 0.2},",
+        "detail": "lab3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "test_graph1",
+        "kind": 5,
+        "importPath": "lab3.settings",
+        "description": "lab3.settings",
+        "peekOfCode": "test_graph1 = {'points': [1,\n            2,\n            3,\n            4,\n            5,\n            6,\n            7,\n            8,\n            9,\n            10,",
+        "detail": "lab3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "choices",
+        "kind": 2,
+        "importPath": "lab3.test",
+        "description": "lab3.test",
+        "peekOfCode": "def choices(items, weights):\n    l = []\n    s = 0\n    for el in weights:\n        l.append(s + el)\n        s += el\n    num = s * random()\n    i = 0\n    while l[i] <= num:\n        i += 1",
+        "detail": "lab3.test",
+        "documentation": {}
+    },
+    {
+        "label": "nums",
+        "kind": 5,
+        "importPath": "lab3.test",
+        "description": "lab3.test",
+        "peekOfCode": "nums = {\n    1: 0,\n    2: 0,\n    3: 0,\n    4: 0,\n}\nfor i in range(100000):\n    num = choices([1, 2, 3, 4], [1, 2, 3, 4])\n    nums[num] += 1\nprint(nums)",
+        "detail": "lab3.test",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "lab4.config",
+        "description": "lab4.config",
+        "peekOfCode": "class Config:\n    t_max: int = 50\n    t_min: int = .01\n    alpha: float = 0.99999\ntest_graph = {\n    'points': [1, 2, 3, 4, 5],\n    'links': [\n        {'points': [1, 2], 'weight': 7},\n        {'points': [1, 3], 'weight': 13},\n        {'points': [1, 4], 'weight': 6},",
+        "detail": "lab4.config",
+        "documentation": {}
+    },
+    {
+        "label": "test_graph",
+        "kind": 5,
+        "importPath": "lab4.config",
+        "description": "lab4.config",
+        "peekOfCode": "test_graph = {\n    'points': [1, 2, 3, 4, 5],\n    'links': [\n        {'points': [1, 2], 'weight': 7},\n        {'points': [1, 3], 'weight': 13},\n        {'points': [1, 4], 'weight': 6},\n        {'points': [1, 5], 'weight': 4},\n        {'points': [2, 3], 'weight': 1},\n        {'points': [2, 4], 'weight': 15},\n        {'points': [2, 5], 'weight': 8},",
+        "detail": "lab4.config",
+        "documentation": {}
+    },
+    {
+        "label": "test_graph1",
+        "kind": 5,
+        "importPath": "lab4.config",
+        "description": "lab4.config",
+        "peekOfCode": "test_graph1 = {\n    'points': [\n        1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20\n    ],\n    'links': [{'points': [1, 2], 'weight': 1},\n              {'points': [1, 3], 'weight': 4},\n              {'points': [1, 4], 'weight': 46},\n              {'points': [1, 5], 'weight': 16},\n              {'points': [1, 6], 'weight': 9},\n              {'points': [1, 7], 'weight': 12},",
+        "detail": "lab4.config",
+        "documentation": {}
+    },
+    {
+        "label": "Point",
+        "kind": 6,
+        "importPath": "lab4.graph",
+        "description": "lab4.graph",
+        "peekOfCode": "class Point:\n    def __init__(self, num):\n        self.number: int = num\n        self.links: list[Link] = []\n    def __repr__(self):\n        return str(self.number)\n    def __getitem__(self, item):\n        for link in self.links:\n            point_numbers = [point.number for point in link.points]\n            if item in point_numbers and self.number in point_numbers:",
+        "detail": "lab4.graph",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "kind": 6,
+        "importPath": "lab4.graph",
+        "description": "lab4.graph",
+        "peekOfCode": "class Link:\n    def __init__(self, weight: float):\n        self.weight = weight\n        self.points = []\n    def __repr__(self):\n        return f'{self.points[0]} -> {self.points[1]}'\nclass Graph:\n    def __init__(self):\n        self.points: list[Point] = []\n        self.links: list[Link] = []",
+        "detail": "lab4.graph",
+        "documentation": {}
+    },
+    {
+        "label": "Graph",
+        "kind": 6,
+        "importPath": "lab4.graph",
+        "description": "lab4.graph",
+        "peekOfCode": "class Graph:\n    def __init__(self):\n        self.points: list[Point] = []\n        self.links: list[Link] = []\n    def __getitem__(self, item: int):\n        for el in self.points:\n            if el.number == item:  \n                return el\n    def length(self, path: list[int]):\n        prev = None",
+        "detail": "lab4.graph",
+        "documentation": {}
+    },
+    {
+        "label": "generate_graph_config",
+        "kind": 2,
+        "importPath": "lab4.graph",
+        "description": "lab4.graph",
+        "peekOfCode": "def generate_graph_config(n: int):\n    from random import randint\n    from pprint import pprint\n    points = [i + 1 for i in range(n)]\n    links = {}\n    for a in points:\n        for b in points:\n            if (a, b) not in links.keys() and (b, a) not in links.keys() and a != b:\n                weight = round(randint(1, 50), 4)\n                pheromone = 0.2",
+        "detail": "lab4.graph",
+        "documentation": {}
+    },
+    {
+        "label": "generate_initial_path",
+        "kind": 2,
+        "importPath": "lab4.main",
+        "description": "lab4.main",
+        "peekOfCode": "def generate_initial_path(graph: Graph):\n    path = [el.number for el in graph.points]\n    random.shuffle(path)\n    path = [*path, path[0]]\n    return path\ndef swap_path_elements(path: list):\n    path = [*path]\n    a1, a2 = 0, 0\n    while a1 == a2:\n        a1, a2 = random.randint(1, len(path) - 2), random.randint(1, len(path) - 2)",
+        "detail": "lab4.main",
+        "documentation": {}
+    },
+    {
+        "label": "swap_path_elements",
+        "kind": 2,
+        "importPath": "lab4.main",
+        "description": "lab4.main",
+        "peekOfCode": "def swap_path_elements(path: list):\n    path = [*path]\n    a1, a2 = 0, 0\n    while a1 == a2:\n        a1, a2 = random.randint(1, len(path) - 2), random.randint(1, len(path) - 2)\n    a1, a2 = (a2, a1) if a1 > a2 else (a1, a2)\n    path[a1], path[a2] = path[a2], path[a1]\n    return path\nif __name__ == \"__main__\":\n    graph = Graph()",
+        "detail": "lab4.main",
+        "documentation": {}
+    },
+    {
+        "label": "Cell",
+        "kind": 6,
+        "importPath": "lab5.ui.cells",
+        "description": "lab5.ui.cells",
+        "peekOfCode": "class Cell:\n    color = '#101010'\n    added_command = 4\nclass Bot(Cell):\n    normal_color = \"#2b31a6\"\n    mutated_color = '#eb8934'\n    iteration_hp_lost = 1\n    added_command = 1\n    last_number = 0\n    def __init__(self, genome, is_mutated=False):",
+        "detail": "lab5.ui.cells",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "kind": 6,
+        "importPath": "lab5.ui.cells",
+        "description": "lab5.ui.cells",
+        "peekOfCode": "class Bot(Cell):\n    normal_color = \"#2b31a6\"\n    mutated_color = '#eb8934'\n    iteration_hp_lost = 1\n    added_command = 1\n    last_number = 0\n    def __init__(self, genome, is_mutated=False):\n        Bot.last_number += 1\n        self.num = Bot.last_number\n        self.color = self.mutated_color if is_mutated else self.normal_color",
+        "detail": "lab5.ui.cells",
+        "documentation": {}
+    },
+    {
+        "label": "Food",
+        "kind": 6,
+        "importPath": "lab5.ui.cells",
+        "description": "lab5.ui.cells",
+        "peekOfCode": "class Food(Cell):\n    color = \"#2da62b\"\n    added_command = 3\n    added_food = 35\nclass Wall(Cell):\n    added_command = 1\n    color = \"#505050\"",
+        "detail": "lab5.ui.cells",
+        "documentation": {}
+    },
+    {
+        "label": "Wall",
+        "kind": 6,
+        "importPath": "lab5.ui.cells",
+        "description": "lab5.ui.cells",
+        "peekOfCode": "class Wall(Cell):\n    added_command = 1\n    color = \"#505050\"",
+        "detail": "lab5.ui.cells",
+        "documentation": {}
+    },
+    {
+        "label": "UIConfig",
+        "kind": 6,
+        "importPath": "lab5.ui.config",
+        "description": "lab5.ui.config",
+        "peekOfCode": "class UIConfig:\n    UPS = 5\n    max_recursive = 20\n    run_until_alive = 8\n    mutate_amount = 2\n    population_amount = 150\n    redraw_every_iteration = 1\n    @dataclass\n    class Window:\n        width: int = 1644",
+        "detail": "lab5.ui.config",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "kind": 6,
+        "importPath": "lab5.ui.field",
+        "description": "lab5.ui.field",
+        "peekOfCode": "class Field:\n    def __init__(self):\n        pygame.init()\n        self.canvas = pygame.display.set_mode((\n            UIConfig.Window.width,\n            UIConfig.Window.height\n        ))\n        self.i = 0\n        self.grid: list[list[Cell]] = []\n        self.bots = []",
+        "detail": "lab5.ui.field",
+        "documentation": {}
+    },
+    {
+        "label": "save_to",
+        "kind": 2,
+        "importPath": "lab5.ui.saveload",
+        "description": "lab5.ui.saveload",
+        "peekOfCode": "def save_to(filename: str, data: dict):\n    try:\n        with open(filename, 'wb') as file:\n            pickle.dump(data, file, pickle.HIGHEST_PROTOCOL)\n    except Exception as ex:\n        print('Error during pickling object (Possibly unsupported)', ex)\ndef load_from(filename: str) -> dict:\n    with open(filename, 'rb') as file:\n        return pickle.load(file)",
+        "detail": "lab5.ui.saveload",
+        "documentation": {}
+    },
+    {
+        "label": "load_from",
+        "kind": 2,
+        "importPath": "lab5.ui.saveload",
+        "description": "lab5.ui.saveload",
+        "peekOfCode": "def load_from(filename: str) -> dict:\n    with open(filename, 'rb') as file:\n        return pickle.load(file)",
+        "detail": "lab5.ui.saveload",
+        "documentation": {}
+    },
+    {
+        "label": "forced_ups",
+        "kind": 2,
+        "importPath": "lab5.ui.utils",
+        "description": "lab5.ui.utils",
+        "peekOfCode": "def forced_ups(ups):\n    def _forced_ups(func):\n        def wrapped(*args, **kwargs):\n            if ups == 0:\n                return func(*args, **kwargs)\n            start = time.time()\n            res = func(*args, **kwargs)\n            delay = 1/ups - (time.time() - start)\n            time.sleep(delay if delay > 0 else 0)\n            return res",
+        "detail": "lab5.ui.utils",
+        "documentation": {}
+    },
+    {
+        "label": "coords_from_num",
+        "kind": 2,
+        "importPath": "lab5.ui.utils",
+        "description": "lab5.ui.utils",
+        "peekOfCode": "def coords_from_num(num: int):\n    num_to_coords = {\n        0: (-1, -1),\n        1: (0, -1),\n        2: (1, -1),\n        3: (0, 1),\n        4: (1, 1),\n        5: (0, 1),\n        6: (-1, 1),\n        7: (-1, 0),",
+        "detail": "lab5.ui.utils",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "lab5.main",
+        "description": "lab5.main",
+        "peekOfCode": "s = set(((59, 39, 35, 14, 16, 32, 52, 10, 33, 11, 33, 15, 4, 17, 48, 24, 49, 3, 53, 63, 40, 32, 63, 0, 12, 46, 60, 60, 10, 36, 56, 21, 34, 56, 4, 20, 32, 16, 41, 60, 37, 14, 15, 50, 9, 6, 43, 23, 10, 49, 13, 63, 63, 7, 45, 47, 36, 25, 44, 41, 2, 17, 39, 53),\n(59, 39, 35, 14, 16, 32, 52, 10, 33, 11, 33, 15, 4, 17, 48, 24, 49, 3, 53, 63, 40, 32, 63, 0, 12, 46, 60, 60, 10, 36, 56, 21, 34, 56, 4, 20, 32, 16, 41, 60, 37, 14, 15, 50, 9, 6, 43, 23, 10, 49, 13, 63, 63, 7, 45, 47, 36, 25, 44, 41, 2, 17, 39, 53),\n(59, 39, 35, 14, 16, 32, 52, 10, 33, 11, 33, 15, 4, 17, 48, 24, 49, 3, 53, 63, 40, 32, 63, 0, 12, 46, 60, 60, 10, 36, 56, 21, 34, 56, 4, 20, 32, 16, 41, 60, 37, 14, 15, 50, 9, 6, 43, 23, 10, 49, 13, 63, 63, 7, 45, 47, 36, 25, 44, 41, 2, 17, 39, 53),\n(59, 39, 35, 14, 16, 32, 52, 10, 33, 11, 33, 15, 4, 17, 48, 24, 49, 3, 53, 63, 40, 32, 63, 0, 12, 46, 60, 60, 10, 36, 56, 21, 34, 56, 4, 20, 32, 16, 41, 60, 37, 14, 15, 50, 9, 6, 43, 23, 10, 49, 13, 63, 63, 7, 45, 47, 36, 25, 44, 41, 2, 17, 39, 53),\n(59, 39, 35, 14, 16, 32, 52, 10, 33, 11, 33, 15, 4, 17, 48, 24, 49, 3, 53, 63, 40, 32, 63, 0, 12, 46, 60, 60, 10, 36, 56, 21, 34, 56, 4, 20, 32, 16, 41, 60, 37, 14, 15, 50, 9, 6, 43, 23, 10, 49, 13, 63, 63, 7, 45, 47, 36, 25, 44, 41, 2, 17, 39, 53),\n(59, 39, 35, 14, 16, 32, 52, 10, 33, 11, 33, 15, 4, 17, 48, 24, 49, 3, 53, 63, 40, 32, 63, 0, 12, 46, 60, 60, 10, 36, 56, 21, 34, 56, 4, 20, 32, 16, 41, 60, 37, 14, 15, 50, 9, 6, 43, 23, 10, 49, 13, 63, 63, 7, 45, 47, 36, 25, 44, 41, 2, 17, 39, 53),\n(59, 39, 35, 14, 16, 32, 52, 10, 33, 11, 33, 15, 4, 17, 48, 24, 49, 3, 53, 63, 40, 32, 63, 0, 12, 46, 60, 60, 10, 36, 56, 21, 34, 56, 4, 20, 32, 16, 41, 60, 37, 14, 15, 50, 9, 6, 43, 23, 10, 49, 13, 63, 63, 7, 45, 47, 36, 25, 44, 41, 2, 17, 39, 53),\n(59, 39, 35, 14, 16, 32, 52, 10, 33, 11, 33, 15, 4, 17, 48, 24, 49, 3, 53, 63, 40, 32, 63, 0, 12, 46, 60, 60, 10, 36, 56, 21, 34, 56, 4, 20, 32, 16, 41, 60, 37, 14, 15, 50, 9, 6, 43, 23, 10, 49, 13, 63, 63, 7, 45, 47, 36, 25, 44, 41, 2, 17, 39, 53),\n(59, 39, 35, 14, 16, 32, 52, 10, 33, 11, 33, 15, 4, 17, 48, 24, 49, 3, 53, 63, 40, 32, 63, 0, 12, 46, 60, 60, 10, 36, 56, 21, 34, 56, 4, 20, 32, 16, 41, 60, 37, 14, 15, 50, 9, 6, 43, 23, 10, 49, 13, 63, 63, 7, 45, 47, 36, 25, 44, 41, 2, 17, 39, 53),\n(59, 39, 35, 14, 16, 32, 52, 10, 33, 11, 33, 15, 4, 17, 48, 24, 49, 3, 53, 63, 40, 32, 63, 0, 12, 46, 60, 60, 10, 36, 56, 21, 34, 56, 4, 20, 32, 16, 41, 60, 37, 14, 15, 50, 9, 6, 43, 23, 10, 49, 13, 63, 63, 7, 45, 47, 36, 25, 44, 41, 2, 17, 39, 53),",
+        "detail": "lab5.main",
+        "documentation": {}
+    },
+    {
+        "label": "Network",
+        "kind": 6,
+        "importPath": "lab6.neural_net",
+        "description": "lab6.neural_net",
+        "peekOfCode": "class Network:\n    @staticmethod\n    def sigmoid(input: np.array):\n        return np.array([])\n    def __init__(self, layers: list[int], func: callable):\n        self.layers = layers\n        self.weights = []\n        self.b_list = []\n        self.func = func\n        try:",
+        "detail": "lab6.neural_net",
+        "documentation": {}
+    }
+]
