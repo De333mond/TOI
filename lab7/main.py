@@ -17,6 +17,7 @@ class NeuralNetwork:
     def sigmoid(self, x):
         return 1 / (1 + np.exp(-x))
 
+
     def forward(self, X):
         # Forward pass
         self.activations = [X]
@@ -26,7 +27,7 @@ class NeuralNetwork:
             self.activations.append(layer_output)
         return self.activations[-1]
 
-    def change_weight(self, X, a=1):
+    def change_weight(self, X, a=1.0):
         self.forward(X)
 
         # Hebbian learning
@@ -38,24 +39,27 @@ class NeuralNetwork:
 
             self.weights[i] += delta
 
+
+
 def sum_cases():
-    get_values = lambda: (random.randint(0, 3) / 3 for _ in range(3))
+    get_values = lambda: (random.random() * 2 - 1 for _ in range(3))
+
     learn_cases = set()
-    while len(learn_cases) < 50:
+    while len(learn_cases) < 250:
         a, b, c = get_values()
         value = (
             (a, b, c),
-            int(sum([a, b, c]) * 3 % 2)
+            int(sum([a, b, c]) > 0)
         )
 
         learn_cases.add(value)
 
     check_cases = set()
-    while len(check_cases) < 14:
+    while len(check_cases) < 20:
         a, b, c = get_values()
         value = (
             (a, b, c),
-            int(sum([a, b, c]) * 3 % 2)
+            int(sum([a, b, c]) > 0.5)
         )
         if value not in learn_cases:
             check_cases.add(value)
@@ -67,22 +71,22 @@ def sum_cases():
 
 
 if __name__ == "__main__":
-    nw = NeuralNetwork([3, 5, 10, 5, 1])
+    nw = NeuralNetwork([3, 5, 10, 1, 1])
 
     learn, _, check, check_res = sum_cases()
 
-    for i in range(1):
+    for i in range(10):
         for el in learn:
-            nw.change_weight(np.array([el]))
+            nw.change_weight(np.array([el]), a=0.1)
 
     print("Final predictions:")
     count = 0
     for initial, res, expect in zip(check, nw.forward(np.array(check)), check_res):
-        initial = [int(el * 3) for el in initial]
+        initial = ' ,'.join([f"{el:.3f}" for el in initial])
+        initial = f'[{initial}]'
         print(initial, res, expect, end=' ')
         res = round(res[0]) == expect[0]
         count += 1 if res else 0
         print(res)
 
     print(F'total: {count}/{len(check_res)}')
-
